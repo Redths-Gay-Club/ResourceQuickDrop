@@ -2,7 +2,7 @@
   "compatibilityLevel": "JAVA_8",
   "minVersion": "0.7",
   "package": "org.redthsgayclub.resourcedrop.mixin",
-  "refmap": "mixins.chatter.refmap.json",
+  "refmap": "mixins.resourcedrop.refmap.json",
   "injectors": {
     "maxShiftBy": 5
   },
